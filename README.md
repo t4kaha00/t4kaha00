@@ -48,7 +48,7 @@
 ## 💼 Experience
 
 ### 🧑‍💻 Full Stack Developer — Kassavirtanen Oy  
-**Sep 2022 – Present**
+**Sep 2022 – Sep 2026**
 - 🌍 Scaled applications across multiple countries  
 - ⚡ Improved frontend performance with React & Redux-Saga  
 - 🔧 Built backend services with C# and .NET  
